@@ -1,0 +1,47 @@
+form{
+	position: absolute;
+	top: 30%;
+	left: 40%;
+	border-radius: 8px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 40px;
+	padding-bottom: 25px;
+	background-color: gray;
+}
+#display{
+	margin-bottom: 20px;
+	padding: 12px;
+}
+.button{
+	padding-left: 19.2px;
+	padding-right:19.2px;
+	margin-top: 7px;
+	border: 0px;
+}
+.button:hover{
+	background-color: red;
+	color: white;
+}
+#clrbtn{
+	margin-top: 7px;
+	padding-left: 82.5px;
+	padding-right: 82.5px;
+	border: 0px;
+}
+#clrbtn:hover{
+	background-color: red;
+	color: white;
+}
+#minus{
+	padding-right: 20.7px;
+	padding-left: 20.7px;
+}
+#product{
+	padding-right: 20.2px;
+	padding-left: 20.2px;
+}
+#divide{
+	padding-right: 22.2px;
+	padding-left: 22.2px;
+}
